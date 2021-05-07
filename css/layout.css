@@ -1,0 +1,88 @@
+/* Section 1 */
+/* layout css grid */
+#newsPrimary {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  width: 100%;
+  grid-gap: 5px;
+}
+
+#opening {
+  grid-area: 1 / 1 / 4 / 5;
+  min-height: 500px;
+  max-height: 1000;
+  background-color: lightblue;
+  padding: 10px;
+  text-align: justify;
+}
+
+#newsP1 {
+  grid-area: 1 / 5 / 2 / 8;
+  background-color: yellowgreen;
+}
+
+#newsP2 {
+  grid-area: 1 / 8 / 2 / 13;
+  background-color: teal;
+}
+
+#newsP3 {
+  grid-area: 2 / 5/ 4 / 8;
+  background-color: teal;
+}
+
+#newsP4 {
+  grid-area: 2 / 8 / 3 / 13;
+  background-color: teal;
+}
+
+#newsP5 {
+  grid-area: 3 / 8 / 4 / 13;
+  background-color: teal;
+}
+
+/* small screen version */
+@media only screen and (max-width: 768px) {
+  #newsPrimary {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-gap: 5px;
+  }
+
+  #opening {
+    grid-area: 1;
+    height: 100%;
+  }
+
+  #newsP1 {
+    grid-area: 2;
+  }
+  #newsP2 {
+    grid-area: 3;
+  }
+  #newsP3 {
+    grid-area: 4;
+  }
+  #newsP4 {
+    grid-area: 5;
+  }
+  #newsP5 {
+    grid-area: 6;
+  }
+}
+/* End of Section 1 */
+
+/* Section 2 */
+#newsBlock1 {
+  margin-bottom: 2px;
+}
+
+/* End of Section 2 */
+
+/* Section 3 */
+
+/* End of Section 3 */
+
+/* Section 4 */
+
+/* End of Section 4 */

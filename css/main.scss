@@ -1,0 +1,36 @@
+body,
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+h4 {
+  margin: 2rem;
+}
+
+#newsBlock3 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
+  cursor: pointer;
+  grid-gap: 2px;
+
+  .mycard {
+    transition: transform 1s;
+
+    &:hover {
+      transform: translateY(-10px);
+    }
+
+    img {
+      width: 100%;
+    }
+
+    .info {
+      padding: 1rem;
+      background-color: lightgrey;
+    }
+  }
+}

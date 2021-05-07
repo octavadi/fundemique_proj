@@ -1,0 +1,25 @@
+.box-red {
+  background-color: red;
+}
+
+.box-blue {
+  background-color: lightblue;
+}
+
+.box-green {
+  background-color: green;
+}
+
+#opening > h1 {
+  color: lightgoldenrodyellow;
+}
+
+.my_footer {
+  font-size: 1rem;
+}
+
+header {
+  color: lightgrey;
+  text-align: center;
+  padding: 2px;
+}
