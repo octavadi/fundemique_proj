@@ -21,56 +21,18 @@
 <body>
   <h2 class="text-center text-danger">UNDER CONSTRUCTION</h2>
 
-  <!-- Area navbar -->
-  <nav class="navbar navbar-expand-lg navbar-light bg-warning shadow-sm">
-    <div class="container">
-      <a class="navbar-brand text-danger fw-bold" href="index.html">Fundemique</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav ms-auto">
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Index</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="thecrew.html">The Crew</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>
-  <!-- Akhir navbar -->
+  <?php
+include('assets_code/header.php')
+  ?>
 
   <!-- Main container -->
   <div class="container-md">
     <!-- 100% wide until medium breakpoint -->
 
-    <!-- Section 1 : newsPrimary -->
-    <section id='newsPrimary'>
-      <div id="opening">
-        <h1>Introduction section - covid 19</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque quas beatae perspiciatis magnam ratione libero quaerat ipsa rerum nisi dolorem.</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque quas beatae perspiciatis magnam ratione libero quaerat ipsa rerum nisi dolorem.</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque quas beatae perspiciatis magnam ratione libero quaerat ipsa rerum nisi dolorem.</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque quas beatae perspiciatis magnam ratione libero quaerat ipsa rerum nisi dolorem.</p>
-        
-        </div>
-      <div id="newsP1">news primary 1</div>
-      <div id="newsP2">news primary 2</div>
-      <div id="newsP3">news primary 3</div>
-      <div id="newsP4">news primary 4</div>
-      <div id="newsP5">news primary 5</div>
-    </section>
-    <!-- End of newsPrimary -->
-
+   
+    <?php
+include('assets_code/section1.php')
+  ?>
     <!-- Section 2 : newsBlock1 -->
     <section id="newsBlock1">
       <div class="row row-cols-1 row-cols-md-3 g-1">
