@@ -21,181 +21,47 @@
 <body>
   <h2 class="text-center text-danger">UNDER CONSTRUCTION</h2>
 
+  <!-- Header area -->
   <?php
-include('assets_code/header.php')
+  include('assets_code/header.php')
   ?>
+<!-- End of header area -->
 
   <!-- Main container -->
   <div class="container-md">
     <!-- 100% wide until medium breakpoint -->
 
-   
+   <!-- Section 1 area -->
     <?php
-include('assets_code/section1.php')
-  ?>
-    <!-- Section 2 : newsBlock1 -->
-    <section id="newsBlock1">
-      <div class="row row-cols-1 row-cols-md-3 g-1">
+    include('assets_code/section1.php')
+    ?>
+    <!-- End of section 1 -->
 
-        <div class="col">
-          <div class="card h-100 bg-warning">
-            <img src="image/newsDummy.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Nama Mahasiswa</h5>
-              <p class="card-text ">This is a short card.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card h-100 bg-warning">
-            <img src="image/newsDummy.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Nama Mahasiswa</h5>
-              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional
-                content.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card h-100 bg-warning">
-            <img src="image/newsDummy.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Nama Mahasiswa</h5>
-              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional
-                content. This content is a little bit longer.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- End of newsBlock1 -->
+    <!-- Section 2 area -->
+    <?php
+    include('assets_code/section2.php')
+    ?>
+    <!-- End of section 2 -->
 
-    <!-- Section 3 : newsBlock2 -->
-    <section id='newsBlock2'>
+    <!-- Section 3 area -->
+    <?php
+    include('assets_code/section3.php')
+    ?>
+    <!-- End of section 3 -->
 
-      <div class="row row-cols-1 row-cols-md-4 g-1">
-        <div class="col">
-          <div class="card h-100 bg-success text-white">
-            <img src="image/newsDummy.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Nama Mahasiswa</h5>
-              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional
-                content. This content is a little bit longer.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card h-100 bg-success text-white">
-            <img src="image/newsDummy.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Nama Mahasiswa</h5>
-              <p class="card-text">This is a short card.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card h-100 bg-success text-white">
-            <img src="image/newsDummy.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Nama Mahasiswa</h5>
-              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional
-                content.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card h-100 bg-success text-white">
-            <img src="image/newsDummy.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Nama Mahasiswa</h5>
-              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional
-                content. This content is a little bit longer.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- End of newsBlock2 -->
-
-    <!-- Section 4 : newsBlock3 -->
-    <section id='newsBlock3'>
-      <div class="mycard">
-        <div class="info">
-          <strong>My Title</strong>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam
-            optio, alias eos unde odio rem qui officia excepturi, minima nostrum
-            placeat fuga repudiandae? Odio, illum!
-          </p>
-        </div>
-        <img src="image/newsDummy.jpg" alt="" srcset="" />
-      </div>
-      <div class="mycard">
-        <div class="info">
-          <strong>My Title</strong>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam
-            optio, alias eos unde odio rem qui officia excepturi, minima nostrum
-            placeat fuga repudiandae? Odio, illum!
-          </p>
-        </div>
-        <img src="image/newsDummy.jpg" alt="" srcset="" />
-      </div>
-      <div class="mycard">
-        <div class="info">
-          <strong>My Title</strong>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam
-            optio, alias eos unde odio rem qui officia excepturi, minima nostrum
-            placeat fuga repudiandae? Odio, illum!
-          </p>
-        </div>
-        <img src="image/newsDummy.jpg" alt="" srcset="" />
-      </div>
-      <div class="mycard">
-        <div class="info">
-          <strong>My Title</strong>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam
-            optio, alias eos unde odio rem qui officia excepturi, minima nostrum
-            placeat fuga repudiandae? Odio, illum!
-          </p>
-        </div>
-        <img src="image/newsDummy.jpg" alt="" srcset="" />
-      </div>
-      <div class="mycard">
-        <div class="info">
-          <strong>My Title</strong>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam
-            optio, alias eos unde odio rem qui officia excepturi, minima nostrum
-            placeat fuga repudiandae? Odio, illum!
-          </p>
-        </div>
-        <img src="image/newsDummy.jpg" alt="" srcset="" />
-      </div>
-      <div class="mycard">
-        <div class="info">
-          <strong>My Title</strong>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam
-            optio, alias eos unde odio rem qui officia excepturi, minima nostrum
-            placeat fuga repudiandae? Odio, illum!
-          </p>
-        </div>
-        <img src="image/newsDummy.jpg" alt="" srcset="" />
-      </div>
-    </section>
-    <!-- End of newsBlock3 -->
+    <!-- Section 4 area -->
+    <?php
+    include('assets_code/section4.php')
+    ?>
+    <!-- End of section 4 -->
 
   </div>
   <!-- End of Main Container -->
 
   <!-- Area footer -->
-  <footer class='box-red text-white '>
-    <div class="container-md">
-      <div class=" my_footer"><strong>Program Studi Jurnalistik Universitas Multimedia Nusantara 2021</strong></div>
-  </footer>
+  <?php
+    include('assets_code/footer.php')
+    ?>
   <!-- End of footer -->
 
   <!-- Option 1: Bootstrap Bundle with Popper -->

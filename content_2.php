@@ -17,24 +17,23 @@
     <title>Konten 2 php</title>
   </head>
   <body>
+
   <!-- header and nav -->
   <?php
     include('assets_code/header.php')
     ?>
-    <!-- end of header and nav -->
+  <!-- end of header and nav -->
 
-    <!-- Embed konten   -->
- <!-- <p>laman konten mahasiswa di sini</p> -->
- <iframe src="https://journalism.umn.ac.id/B/archive/amadea.claritta@student.umn.ac.id/" frameborder="0" height="100%" width="100%"></iframe>
-
-
+  <!-- Embed konten   -->
+  <!-- <p>laman konten mahasiswa di sini</p> -->
+  <iframe src="https://journalism.umn.ac.id/B/archive/amadea.claritta@student.umn.ac.id/" frameborder="0" height="100%" width="100%"></iframe>
   <!-- Akhir area embed konten -->
 
-<!-- footer area -->
+  <!-- footer area -->
   <?php
     include('assets_code/footer.php')
   ?>
-<!-- Enf of footer area -->
+  <!-- Enf of footer area -->
 
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
