@@ -33,7 +33,7 @@
   <?php
     include('assets_code/footer.php')
   ?>
-  <!-- Enf of footer area -->
+  <!-- End of footer area -->
 
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
