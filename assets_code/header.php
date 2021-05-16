@@ -2,7 +2,7 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-warning shadow-sm">
   <div class="container">
     <a class="navbar-brand text-danger fw-bold" href="index.php">Fundemique</a>
-    <button
+        <button
       class="navbar-toggler"
       type="button"
       data-bs-toggle="collapse"
@@ -31,4 +31,5 @@
     </div>
   </div>
 </nav>
+
 <!-- Akhir navbar -->

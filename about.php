@@ -12,6 +12,10 @@
   ?>
   <!-- End of header area -->
 
+<!-- About area -->
+Di sini konten about
+<!-- End of about area -->
+
   <!-- Area footer -->
   <?php
     include('assets_code/footer.php')

@@ -15,9 +15,9 @@
 }
 
 .my_footer {
-  font-size: 1.2em;
+  font-size: 1rem;
   min-height: 20px;
-  align-self: center;
+  text-align: center;
 }
 
 header {
