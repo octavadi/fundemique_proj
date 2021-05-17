@@ -1,3 +1,11 @@
+<?php
+// Cek apakah ada data di $_GET 
+if(!isset($_GET["url"])) {
+  // redirect
+  header("Location: empty_page.php");
+  exit;
+}
+?>
 <!doctype html>
 <html lang="en">
   <head>
@@ -7,6 +15,7 @@
   ?>
   <!-- End of head code -->
   </head>
+
   <body>
 
   <!-- header and nav -->
@@ -15,11 +24,12 @@
     ?>
   <!-- end of header and nav -->
 
-  <!-- Embed konten   -->
-  <!-- <p>laman konten mahasiswa di sini</p> -->
-  <iframe src="https://journalism.umn.ac.id/B/archive/amadea.claritta@student.umn.ac.id/" frameborder="0" height="100%" width="100%"></iframe>
-  <!-- Akhir area embed konten -->
-
+  
+  <!-- Embed content -->
+    <p>Laman konten mahasiswa di sini</p>
+    <iframe src="<?=$_GET["url"]; ?>" frameborder="0" height="100%" width="100%"></iframe>
+  <!-- end of embed content  -->
+  
   <!-- footer area -->
   <?php
     include('assets_code/footer.php')
@@ -27,9 +37,9 @@
   <!-- End of footer area -->
 
 
-    <!-- Option 1: Bootstrap Bundle with Popper -->
+  <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-p34f1UUtsS3wqzfto5wAAmdvj+osOnFyQFpp4Ua3gs/ZVWx6oOypYoCJhGGScy+8" crossorigin="anonymous"></script>
-
+  <!-- End of option 1 -->
     
   </body>
 </html>

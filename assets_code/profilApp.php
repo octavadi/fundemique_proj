@@ -6,12 +6,11 @@ $mahasiswa = json_decode($data, true);
 $mahasiswa = $mahasiswa["mahasiswa"];
 
 ?>
-<!-- Akhir perintah memanggi data dari file json -->
+<!-- Akhir perintah memanggil data dari file json -->
 
 <!-- Card profil reporter  -->
     <div class="container-md">
         
-
         <div class="row row-cols-1 row-cols-md-4 g-2">
         <?php foreach ($mahasiswa as $row): ?>
             <div class="col-md-3">
@@ -24,13 +23,12 @@ $mahasiswa = $mahasiswa["mahasiswa"];
                         <p class="card-text"><?=$row["deskripsi"]; ?></p>
                     </div>
                     <div class="card-footer">
-                        <small><a href="<?=$row["url"]; ?>" class="link-primary">link ke laman berita</a></small>
+                        <small><a href="content_page.php?url=<?=$row["url"]; ?>" class="link-primary">Lihat liputan saya</a></small>
                     </div>
                 </div>
             </div>
         <?php endforeach ?>    
         </div>
-
 
     </div>
 <!-- Akhir card profil reporter -->
