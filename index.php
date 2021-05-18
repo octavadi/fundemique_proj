@@ -2,9 +2,7 @@
 <html lang="en">
 
 <head>
-  <?php
-  include('assets_code/head.php')
-  ?>
+  <?php include("assets_code/head.php")?>
 </head>
 
 <body>

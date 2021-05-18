@@ -18,7 +18,7 @@
 
 #newsP1 {
   grid-area: 1 / 5 / 2 / 8;
-  background-color: yellowgreen;
+  background-color: teal;
 }
 
 #newsP2 {
@@ -27,8 +27,8 @@
 }
 
 #newsP3 {
-  grid-area: 2 / 5/ 4 / 8;
-  background-color: teal;
+  grid-area: 2 / 5 / 3 / 8;
+  background-color: greenyellow;
 }
 
 #newsP4 {
@@ -37,7 +37,7 @@
 }
 
 #newsP5 {
-  grid-area: 3 / 8 / 4 / 13;
+  grid-area: 3 / 5 / 4 / 13;
   background-color: teal;
 }
 
