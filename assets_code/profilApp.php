@@ -1,3 +1,4 @@
+<!-- Komponen ini perlu diletakkan pada laman thecrew -->
 <!-- Memanggil data dari json file -->
 <?php
 $data = file_get_contents('data/mhs.json');

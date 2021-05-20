@@ -2,7 +2,7 @@
 <section id="newsBlock3">
   <div class="mycard">
     <div class="info">
-      <strong>My Title</strong>
+      <strong>My Title | </strong>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam optio,
         alias eos unde odio rem qui officia excepturi, minima nostrum placeat
@@ -13,7 +13,7 @@
   </div>
   <div class="mycard">
     <div class="info">
-      <strong>My Title</strong>
+      <strong>My Title | </strong>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam optio,
         alias eos unde odio rem qui officia excepturi, minima nostrum placeat

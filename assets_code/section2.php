@@ -5,7 +5,7 @@
       <div class="card h-100 bg-warning">
         <img src="image/newsDummy.jpg" class="card-img-top" alt="..." />
         <div class="card-body">
-          <h5 class="card-title">Nama Mahasiswa</h5>
+          <h5 class="card-title">Nama Mahasiswa | <?=$judulP1;?></h5>
           <p class="card-text">This is a short card.</p>
         </div>
       </div>

@@ -1,3 +1,4 @@
+<!-- Ini perlu disisipkan pada setiap template laman web dan ditempatkan pada area head -->
 <!-- Required meta tags -->
 <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
