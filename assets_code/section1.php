@@ -55,6 +55,12 @@
       $leadP5=$rep['lead'];
       $fotoUtamaP5=$rep['fotoUtama'];
       $urlP5=$rep['url'];
+    } elseif ($rep['kategori']=='newsB1_1') {
+      $namaB1_1=$rep['nama'];
+      $judulB1_1=$rep['judul'];
+      $leadB1_1=$rep['lead'];
+      $fotoUtamaB1_1=$rep['fotoUtama'];
+      $urlB1_1=$rep['url'];
     } else {
       $nama_=$rep['nama'];
       $judul_="Judul Berita";

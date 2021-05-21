@@ -18,13 +18,14 @@ $mahasiswa = $mahasiswa["mahasiswa"];
                 <!-- profil card  -->
                 <div class="card mb-3 h-100">
                     <img src="<?=$row["fotoDiri"]; ?>" class="card-img-top img-fluid img-thumbnail" alt="foto profil belum tersedia">
-                    <div class="card-body">
-                        <h5 class="card-title"><?=$row["nama"]; ?></h5>
-                        <h6 class="card-title">NIM: <?=$row["nim"]; ?></h6>
+                    <div class="card-body  bg-info">
+                        <h6 class="card-title"><?=$row["nama"]; ?></h6>
+                        <h7 class="card-title">NIM: <?=$row["nim"]; ?></h7>
+                        <hr>
                         <p class="card-text"><?=$row["deskripsi"]; ?></p>
                     </div>
                     <div class="card-footer">
-                        <small><a href="content_page.php?url=<?=$row["url"]; ?>" class="link-primary">Lihat liputan saya</a></small>
+                        <small><a href="content_page.php?url=<?=$row["url"]; ?>" class="link-success">Lihat liputan saya</a></small>
                     </div>
                 </div>
             </div>

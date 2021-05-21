@@ -1,10 +1,18 @@
-<!-- Section 4 : newsBlock3 -->
-<section id="newsBlock3">
+<?php include('assets_code/open_json.php')?>
 
-<!-- <div class="container-md"> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <?php include('assets_code/head.php')?>
+</head>
+<body>
+
+<?= include('assets_code/header.php');?>
+
+<div class="container-md">
     <div class="row row-cols-1 row-cols-md-4 g-2">
 <?php foreach ($mahasiswa as $rep): ?>
-<?php if($rep['kategori']=='-') : ?>
+<?php if($rep['kategori']=='newsP1') : ?>
         <div class="col-md-4">
     <!-- news section 4 app -->
             <div class="card text-dark bg-light mb-1 h-100">
@@ -24,7 +32,9 @@
 <?php endforeach; ?>
 
     </div>
-<!-- </div> -->
-    
-</section>
-<!-- End of newsBlock3 -->
+</div>
+
+  <?php include('assets_code/footer.php')?>
+  </body>
+
+</html>

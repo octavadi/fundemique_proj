@@ -10,6 +10,6 @@
   <!-- My css -->
   <link rel="stylesheet" href="css/custom.css" />
   <link rel="stylesheet" href="css/layout_1.css"/>
-  <link rel="stylesheet" href="css/main.css" />
+  
 
   <title>Fundemique</title>

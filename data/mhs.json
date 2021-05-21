@@ -30,7 +30,7 @@
         "judul": "-",
         "lead": "-",
         "fotoUtama": "-",
-        "kategori": "-",
+        "kategori": "newsP3",
         "url": "https://journalism.umn.ac.id/B/projects/fabio.fandi@student.umn.ac.id"
     },
     {
@@ -41,7 +41,7 @@
         "judul": "-",
         "lead": "-",
         "fotoUtama": "-",
-        "kategori": "-",
+        "kategori": "newsP4",
         "url": "https://journalism.umn.ac.id/B/projects/fiena.refica@student.umn.ac.id"
     },
     {
@@ -52,7 +52,7 @@
         "judul": "-",
         "lead": "-",
         "fotoUtama": "-",
-        "kategori": "-",
+        "kategori": "newsP5",
         "url": "https://journalism.umn.ac.id/B/projects/kemy@student.umn.ac.id"
     },
     {
@@ -63,7 +63,7 @@
         "judul": "-",
         "lead": "-",
         "fotoUtama": "-",
-        "kategori": "-",
+        "kategori": "newsB1_1",
         "url": "https://journalism.umn.ac.id/B/projects/annisa.nabila@student.umn.ac.id"
     },
     {
@@ -244,7 +244,7 @@
     },
     {
         "nim": 37274,
-        "nama": "ANGELA MARICI DESSI",
+        "nama": " MARICI DESSI",
         "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam optio, alias eos unde odio rem qui officia excepturi, minima nostrum placeat fuga repudiandae? Odio, illum!",
         "fotoDiri": "image/profil/37274.jpg",
         "judul": "-",
@@ -355,9 +355,9 @@
     {
         "nim": 39876,
         "nama": "VANIA AUGUSTINE DILIA",
-        "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam optio, alias eos unde odio rem qui officia excepturi, minima nostrum placeat fuga repudiandae? Odio, illum!",
+        "deskripsi": "Saya memilih untuk menjadi jurnalis karena gemar bercerita ataupun mendengar cerita. Sebagai jurnalis, saya tertarik pada isu kemanusiaan. Menurut saya, nilai-nilai kemanusiaan menjadi landasan moral dalam menjalani kehidupan.",
         "fotoDiri": "image/profil/39876.jpg",
-        "judul": "-",
+        "judul": "Peluang Bisnis Coffeeshop di Masa Pandemi",
         "lead": "-",
         "fotoUtama": "-",
         "kategori": "-",
