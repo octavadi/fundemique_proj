@@ -11,7 +11,7 @@
   grid-area: 1 / 1 / 4 / 5;
   min-height: 500px;
   max-height: 1000;
-  background-color: lightblue;
+  background-color: #5cdb95;
   padding: 10px;
   text-align: justify;
 }

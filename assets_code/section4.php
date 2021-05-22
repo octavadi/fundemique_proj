@@ -4,9 +4,9 @@
 <!-- <div class="container-md"> -->
     <div class="row row-cols-1 row-cols-md-4 g-2">
 <?php foreach ($mahasiswa as $rep): ?>
-<?php if($rep['kategori']=='-') : ?>
+    <?php if($rep['kategori']=='-') : ?>
         <div class="col-md-4">
-    <!-- news section 4 app -->
+        <!-- news section 4 app -->
             <div class="card text-dark bg-light mb-1 h-100">
                 <div class="card-header"><?=$rep['nama'];?></div>
                 <img src="<?=$rep['fotoUtama'];?>" class="card-img-top" alt="Foto Cover Berita">
@@ -17,10 +17,7 @@
                 </div>
             </div>
         </div>
-    
-
-    
-<?php endif; ?>
+    <?php endif; ?>
 <?php endforeach; ?>
 
     </div>
