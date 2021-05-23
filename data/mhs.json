@@ -6,8 +6,8 @@
         "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam optio,alias eos unde odio rem qui officia excepturi, minima nostrum placeat fuga repudiandae? Odio, illum!",
         "fotoDiri": "image/profil/profileEmpty.png",
         "judul": "Sampel Judul Berita",
-        "lead": "lorem25 lorem 25 lorem 25",
-        "fotoUtama": "-",
+        "lead": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam optio, alias eos unde odio rem qui officia excepturi, minima nostrum placeat fuga repudiandae? Odio, illum!",
+        "fotoUtama": "image/fotoUtama/news12195.jpg",
         "kategori": "newsP1",
         "url": "https://journalism.umn.ac.id/B/projects/augista.kharisma@student.umn.ac.id"
     },
@@ -18,7 +18,7 @@
         "fotoDiri": "image/profil/25831.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news25831.jpg",
         "kategori": "newsP2",
         "url": "https://journalism.umn.ac.id/B/projects/raihan1@student.umn.ac.id"
     },
@@ -29,7 +29,7 @@
         "fotoDiri": "image/profil/26218.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news26218.jpg",
         "kategori": "newsP3",
         "url": "https://journalism.umn.ac.id/B/projects/fabio.fandi@student.umn.ac.id"
     },
@@ -40,7 +40,7 @@
         "fotoDiri": "image/profil/26438.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news26438.jpg",
         "kategori": "newsP4",
         "url": "https://journalism.umn.ac.id/B/projects/fiena.refica@student.umn.ac.id"
     },
@@ -51,7 +51,7 @@
         "fotoDiri": "image/profil/26497.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news26497.jpg",
         "kategori": "newsP5",
         "url": "https://journalism.umn.ac.id/B/projects/kemy@student.umn.ac.id"
     },
@@ -62,7 +62,7 @@
         "fotoDiri": "image/profil/26563.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news26563.jpg",
         "kategori": "newsB1_1",
         "url": "https://journalism.umn.ac.id/B/projects/annisa.nabila@student.umn.ac.id"
     },
@@ -73,7 +73,7 @@
         "fotoDiri": "image/profil/26605.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news26605.jpg",
         "kategori": "newsB1_2",
         "url": "https://journalism.umn.ac.id/B/projects/mikael.noegroho@student.umn.ac.id"
     },
@@ -84,7 +84,7 @@
         "fotoDiri": "image/profil/29718.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news29718.jpg",
         "kategori": "newsB1_3",
         "url": "https://journalism.umn.ac.id/B/projects/timothy1@student.umn.ac.id"
     },
@@ -95,7 +95,7 @@
         "fotoDiri": "image/profil/31446.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news31446.jpg",
         "kategori": "newsB2_1",
         "url": "https://journalism.umn.ac.id/B/projects/angela.irena@student.umn.ac.id"
     },
@@ -106,7 +106,7 @@
         "fotoDiri": "image/profil/32882.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news32882.jpg",
         "kategori": "newsB2_2",
         "url": "https://journalism.umn.ac.id/B/projects/nurcholish.fachrie@student.umn.ac.id"
     },
@@ -117,7 +117,7 @@
         "fotoDiri": "image/profil/34012.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news34012.jpg",
         "kategori": "newsB2_3",
         "url": "https://journalism.umn.ac.id/B/projects/dolorosa.raras@student.umn.ac.id"
     },
@@ -128,7 +128,7 @@
         "fotoDiri": "image/profil/34111.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news34111.jpg",
         "kategori": "newsB2_4",
         "url": "https://journalism.umn.ac.id/B/projects/stella.fiona@student.umn.ac.id"
     },
@@ -139,7 +139,7 @@
         "fotoDiri": "image/profil/34599.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news34599.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/Linda.sapira@student.umn.ac.id"
     },
@@ -150,7 +150,7 @@
         "fotoDiri": "image/profil/34730.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news34730.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/timothy.nathaniel@student.umn.ac.id"
     },
@@ -161,7 +161,7 @@
         "fotoDiri": "image/profil/34734.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news34734.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/nurfadillah.tasya@student.umn.ac.id"
     },
@@ -172,7 +172,7 @@
         "fotoDiri": "image/profil/35685.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news35685.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/juan.carman@student.umn.ac.id"
     },
@@ -183,7 +183,7 @@
         "fotoDiri": "image/profil/35688.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news35688.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/fallah.fadhilah@student.umn.ac.id"
     },
@@ -194,7 +194,7 @@
         "fotoDiri": "image/profil/36556.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news36556.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/gusti.ariel@student.umn.ac.id"
     },
@@ -205,7 +205,7 @@
         "fotoDiri": "image/profil/36752.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news36752.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/priscilla.waworuntu@student.umn.ac.id"
     },
@@ -216,7 +216,7 @@
         "fotoDiri": "image/profil/36828.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news36828.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/dylan.chandra@student.umn.ac.id"
     },
@@ -227,7 +227,7 @@
         "fotoDiri": "image/profil/36830.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news36830.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/muhammad.gustaf@student.umn.ac.id"
     },
@@ -238,7 +238,7 @@
         "fotoDiri": "image/profil/36911.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news36911.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/marcella3@student.umn.ac.id"
     },
@@ -249,7 +249,7 @@
         "fotoDiri": "image/profil/37274.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news37274.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/angela.marici@student.umn.ac.id"
     },
@@ -260,7 +260,7 @@
         "fotoDiri": "image/profil/37283.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news37283.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/cornelia.wendelina@student.umn.ac.id"
     },
@@ -271,7 +271,7 @@
         "fotoDiri": "image/profil/37406.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news37406.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/dekrita.putri@student.umn.ac.id"
     },
@@ -282,7 +282,7 @@
         "fotoDiri": "image/profil/37408.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news37408.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/brigita.leonora@student.umn.ac.id"
     },
@@ -293,7 +293,7 @@
         "fotoDiri": "image/profil/37409.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news37409.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/pathrichia.putriani@student.umn.ac.id"
     },
@@ -304,7 +304,7 @@
         "fotoDiri": "image/profil/37986.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news37986.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/abel.windrawan@student.umn.ac.id"
     },
@@ -315,7 +315,7 @@
         "fotoDiri": "image/profil/38019.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news38019.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/jason.prisco@student.umn.ac.id"
     },
@@ -326,7 +326,7 @@
         "fotoDiri": "image/profil/38064.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news38064.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/naomie.althanasya@student.umn.ac.id"
     },
@@ -337,7 +337,7 @@
         "fotoDiri": "image/profil/38092.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news38092.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/zahra.larasati@student.umn.ac.id"
     },
@@ -348,7 +348,7 @@
         "fotoDiri": "image/profil/38176.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news38176.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/yosua.kiko@student.umn.ac.id"
     },
@@ -359,7 +359,7 @@
         "fotoDiri": "image/profil/39876.jpg",
         "judul": "Peluang Bisnis Coffeeshop di Masa Pandemi",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news39876.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/vania.augustine@student.umn.ac.id"
     },
@@ -370,7 +370,7 @@
         "fotoDiri": "image/profil/40047.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news40047.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/daffa.arya@student.umn.ac.id"
     },
@@ -381,7 +381,7 @@
         "fotoDiri": "image/profil/40135,jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news40135.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/angeline.lumbangaol@student.umn.ac.id"
     },
@@ -392,7 +392,7 @@
         "fotoDiri": "image/profil/40174.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news40174.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/nabila.ramadhanty1@student.umn.ac.id"
     },
@@ -403,7 +403,7 @@
         "fotoDiri": "image/profil/40509.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news40509.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/firzan.ghiffari@student.umn.ac.id"
     },
@@ -414,7 +414,7 @@
         "fotoDiri": "image/profil/41040.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news41040.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/deanata.ignaty@student.umn.ac.id"
     },
@@ -425,7 +425,7 @@
         "fotoDiri": "image/profil/41069.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news41069.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/qorina.indika@student.umn.ac.id"
     },
@@ -436,7 +436,7 @@
         "fotoDiri": "image/profil/41271.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news41271.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/dista.kristanto@student.umn.ac.id"
     },
@@ -447,7 +447,7 @@
         "fotoDiri": "image/profil/41412.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news41412.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/alfitria.nefi@student.umn.ac.id"
     },
@@ -458,7 +458,7 @@
         "fotoDiri": "image/profil/41535.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news41535.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/fitria.putri@student.umn.ac.id"
     },
@@ -469,7 +469,7 @@
         "fotoDiri": "image/profil/41699.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news41699.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/muhammad.fikri@student.umn.ac.id"
     },
@@ -480,7 +480,7 @@
         "fotoDiri": "image/profil/41701.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news41701.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/priskila.miranda@student.umn.ac.id"
     },
@@ -491,11 +491,9 @@
         "fotoDiri": "image/profil/42693.jpg",
         "judul": "-",
         "lead": "-",
-        "fotoUtama": "-",
+        "fotoUtama": "image/fotoUtama/news42693.jpg",
         "kategori": "-",
         "url": "https://journalism.umn.ac.id/B/projects/firda.makarimah@student.umn.ac.id"
     }
 ]
 }
-
-
