@@ -13,7 +13,7 @@
                 <div class="card-body">
                     <h5 class="card-title"><?=$rep['judul'];?></h5>
                     <p class="card-text"><?=$rep['lead'];?></p>
-                    <a href="<?=$rep['url'];?>" class="btn btn-primary">Berita lengkap</a>
+                    <a href="content_page.php?url=<?=$rep['url'];?>" class="btn btn-primary">Berita lengkap</a>
                 </div>
             </div>
         </div>

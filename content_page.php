@@ -26,7 +26,7 @@ if(!isset($_GET["url"])) {
 
   
   <!-- Embed content -->
-    <p>Laman konten mahasiswa di sini</p>
+   
     <iframe src="<?=$_GET["url"]; ?>" frameborder="0" height="100%" width="100%"></iframe>
   <!-- end of embed content  -->
   

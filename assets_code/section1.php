@@ -34,7 +34,7 @@
         <div class="card-header"><?=$namaP1;?></div>
         <img src="<?=$fotoUtamaP1;?>" class="card-img-top" alt="Foto Cover">
         <div class="card-body">
-          <h5 class="card-title"><?=$judulP1 ;?></h5>
+          <h5 class="card-title"><?=$judulP1;?></h5>
           <p class="card-text"><?=$leadP1;?></p>
           <a href="content_page.php?url=<?=$urlP1; ?>" class="btn btn-primary">Berita lengkap</a>
         </div>
